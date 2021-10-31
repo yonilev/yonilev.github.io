@@ -18,8 +18,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: yonilevv@gmail.com
-  facebook: yoni.lev.7
+  email:
+  facebook:
   flickr:
   github: yonilev
   instagram:
